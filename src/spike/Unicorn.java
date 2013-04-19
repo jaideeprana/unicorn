@@ -20,18 +20,6 @@ public class Unicorn {
                         new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
                 String inputLine, outputLine;
 
-// initiate conversation`` with client
-                KnockKnockProtocol kkp = new KnockKnockProtocol();
-                outputLine = kkp.processInput(null);
-                out.println(outputLine);
-
-                while ((inputLine = in.readLine()) != null) {
-                    outputLine = kkp.processInput(inputLine);
-                    out.println(outputLine);
-                    if (outputLine.equals("Bye."))
-                        break;
-                }
-
             }
             catch (IOException e) {
                 System.out.println("Accept failed: 4444");
