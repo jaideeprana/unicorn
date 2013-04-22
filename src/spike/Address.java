@@ -1,42 +1,45 @@
 package spike;
 
-
 import java.io.*;
 import java.net.InetAddress;
 import java.net.ServerSocket;
 import java.net.Socket;
 
 public class Address {
-    private Socket connectionSocket;
+    private Socket connectedSocket;
+    private DataOutputStream dataOutputStream;
 
-    public void  get(ServerSocket serversocket) throws IOException {
-        connectionSocket = serversocket.accept();
-           InetAddress client = connectionSocket.getInetAddress();
-           System.out.println(client);
+    public Address(ServerSocket serverSocket) throws IOException {
+        this.connectedSocket = serverSocket.accept();
+        this.dataOutputStream = new DataOutputStream(connectedSocket.getOutputStream());
+    }
+
+    public void getClientsInfo() throws IOException {
+        InetAddress client = connectedSocket.getInetAddress();
+        System.out.println(client);
     }
 
     public void read() throws IOException {
-        BufferedReader input =
-                new BufferedReader(new InputStreamReader(connectionSocket.
-                        getInputStream()));
+        BufferedReader input = new BufferedReader(new InputStreamReader(connectedSocket.getInputStream()));
         System.out.println(input.readLine());
     }
 
-    public void write() throws IOException {
-        DataOutputStream output =
-                new DataOutputStream(connectionSocket.getOutputStream());
-        try{
-            FileInputStream fileInputStream = new FileInputStream("./src/spike/a.html");
-            DataInputStream dataInputStream = new DataInputStream(fileInputStream);
-            BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(dataInputStream));
-            String line;
-            while ((line = bufferedReader.readLine()) != null)   {
-                output.writeBytes(line);
-            }
-            dataInputStream.close();
-        }
-        catch (Exception e){
-            System.err.println("Error: " + e.getMessage());
+    public void sendResponse() throws IOException {
+        readFromFile();
+    }
+
+    private void readFromFile() throws IOException {
+        FileInputStream fileInputStream = new FileInputStream("./src/spike/a.html");
+        DataInputStream dataInputStream = new DataInputStream(fileInputStream);
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(dataInputStream));
+        write(bufferedReader);
+        dataInputStream.close();
+    }
+
+    private void write(BufferedReader bufferedReader) throws IOException {
+        String line;
+        while ((line = bufferedReader.readLine()) != null) {
+            dataOutputStream.writeBytes(line);
         }
     }
 }
