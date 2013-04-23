@@ -44,4 +44,11 @@ public class ResponseTest {
         Socket socket=new Socket("localhost",8080);
         assertTrue(response.sendResponse("./src/spike/test.txt", socket).contains("sample page for test ."));
     }
+
+    @Test
+    public void shouldReturnListIfFileHasMultipleLines() throws IOException {
+        Response response = new Response();
+        Socket socket=new Socket("localhost",8080);
+        assertTrue(response.sendResponse("./src/spike/test.txt", socket).size()==4);
+    }
 }

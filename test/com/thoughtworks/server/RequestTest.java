@@ -42,8 +42,8 @@ public class RequestTest {
     @Test
     public void shouldReadTheClientsRequest() throws Exception {
         Request mockRequest= Mockito.mock(Request.class);
-        when(mockRequest.read()).thenReturn("GET a.html");
-        assertThat(String.valueOf(mockRequest.read()), IsEqual.equalTo("GET a.html"));
+        when(mockRequest.read()).thenReturn("GET index.html");
+        assertThat(String.valueOf(mockRequest.read()), IsEqual.equalTo("GET index.html"));
         verify(mockRequest).read();
     }
 }

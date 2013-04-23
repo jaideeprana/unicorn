@@ -29,7 +29,7 @@ public class Address {
     }
 
     private void readFromFile() throws IOException {
-        FileInputStream fileInputStream = new FileInputStream("./src/spike/a.html");
+        FileInputStream fileInputStream = new FileInputStream("./src/spike/index.html");
         DataInputStream dataInputStream = new DataInputStream(fileInputStream);
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(dataInputStream));
         write(bufferedReader);
