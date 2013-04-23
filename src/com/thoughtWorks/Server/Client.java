@@ -1,11 +1,16 @@
 package com.thoughtWorks.Server;
 
-/**
- * Created with IntelliJ IDEA.
- * User: sandeepk
- * Date: 4/23/13
- * Time: 9:24 PM
- * To change this template use File | Settings | File Templates.
- */
 public class Client {
+    private String client;
+
+
+
+    public Client(String client) {
+
+        this.client = client;
+    }
+
+    public String getClient() {
+        return client;
+    }
 }
