@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="379ded2e-378e-4730-bd9c-7d26ec11eb58" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/thoughtWorks/server/a.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/spike/Address.java" afterPath="$PROJECT_DIR$/src/spike/Address.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/thoughtworks/server/RequestTest.java" afterPath="$PROJECT_DIR$/test/com/thoughtworks/server/RequestTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/thoughtworks/server/ResponseTest.java" afterPath="$PROJECT_DIR$/test/com/thoughtworks/server/ResponseTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/spike/test.txt" afterPath="$PROJECT_DIR$/src/spike/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/static/images.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/static/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/thoughtWorks/static/a.jpg" afterPath="$PROJECT_DIR$/out/production/unicorn/com/static/a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/thoughtWorks/Server/Server.java" afterPath="$PROJECT_DIR$/src/com/thoughtWorks/Server/Server.java" />
     </list>
     <ignored path="unicorn.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366713871362" ignored="false" />
+    <file path="/Dummy.txt" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366776044332" ignored="false" />
     <file path="/Example.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366612775058" ignored="false" />
-    <file path="/fragment.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366622999248" ignored="false" />
-    <file path="/Unicorn.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366640381260" ignored="false" />
+    <file path="/fragment.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366777222532" ignored="false" />
+    <file path="/Unicorn.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366729813283" ignored="false" />
     <file path="/unicorn.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366288378033" ignored="false" />
     <file path="/serverUni.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366286540553" ignored="false" />
     <file path="/UnicornServ.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366288494609" ignored="false" />
-    <file path="/Demoing.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366353474486" ignored="false" />
-    <file path="/.gitignore" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366608356305" ignored="false" />
+    <file path="/Demoing.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366729781376" ignored="false" />
+    <file path="/.gitignore" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366777627576" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366614816795" ignored="false" />
     <file path="/ArgumentMatcher.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366609977285" ignored="false" />
     <file path="$USER_HOME$/mokito/test/com/thoughtworks/argumentMatcher/ArgumentMatcher.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366609987062" ignored="false" />
@@ -27,10 +27,19 @@
     <file path="/a.html" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366631165635" ignored="false" />
     <file path="/Address.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366622893392" ignored="false" />
     <file path="/ResponseTest.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366714445452" ignored="false" />
-    <file path="/Request.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366639311373" ignored="false" />
+    <file path="/Request.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366732070433" ignored="false" />
     <file path="/RequestTest.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366626246005" ignored="false" />
-    <file path="/Response.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366639089112" ignored="false" />
+    <file path="/Response.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366740771371" ignored="false" />
     <file path="/test.txt" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366714422402" ignored="false" />
+    <file path="$USER_HOME$/mc/demo/src/webserver_starter.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366715577875" ignored="false" />
+    <file path="$USER_HOME$/mc/demo/src/server.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366715734001" ignored="false" />
+    <file path="/server.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366716256000" ignored="false" />
+    <file path="/index.html" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366777366133" ignored="false" />
+    <file path="/serverTest.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366729847949" ignored="false" />
+    <file path="/Server.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366776651070" ignored="false" />
+    <file path="/Client.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366734652438" ignored="false" />
+    <file path="/ReportGenerator.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366740433789" ignored="false" />
+    <file path="/ReportGeneratorTest.java" changelist="379ded2e-378e-4730-bd9c-7d26ec11eb58" time="1366744747466" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,41 +98,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Unicorn.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/server/Unicorn.java">
+      <file leaf-file-name="Server.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/Server/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="21" selection-start="133" selection-end="133" vertical-scroll-proportion="0.15873016">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RequestTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/com/thoughtworks/server/RequestTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="45" selection-start="1189" selection-end="1189" vertical-scroll-proportion="0.0">
+            <state line="17" column="34" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResponseTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/com/thoughtworks/server/ResponseTest.java">
+      <file leaf-file-name="Unicorn.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/Server/Unicorn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="52" selection-start="1578" selection-end="1578" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spike/test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="5" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+            <state line="7" column="25" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -132,25 +119,70 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/spike/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="50" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
+            <state line="7" column="14" selection-start="137" selection-end="137" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Response.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/server/Response.java">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="46" selection-start="493" selection-end="509" vertical-scroll-proportion="0.0">
+            <state line="5" column="55" selection-start="43" selection-end="43" vertical-scroll-proportion="0.075">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResponseTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/thoughtWorks/Server/ResponseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="87" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/Server/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="17" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReportGenerator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/Server/ReportGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="84" column="52" selection-start="2414" selection-end="2441" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Request.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/server/Request.java">
+        <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/Server/Request.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="3" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
+            <state line="23" column="5" selection-start="732" selection-end="732" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RequestTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/thoughtWorks/Server/RequestTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="176" selection-start="1283" selection-end="1283" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/static/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="59" selection-start="169" selection-end="169" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
@@ -174,30 +206,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/spike/Demoing.java" />
-        <option value="$PROJECT_DIR$/src/spike/server.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/spike/a.html" />
-        <option value="$PROJECT_DIR$/src/com/thoughtWorks/server/Example.java" />
-        <option value="$PROJECT_DIR$/src/spike/Unicorn.java" />
-        <option value="$PROJECT_DIR$/src/spike/StartServer.java" />
-        <option value="$PROJECT_DIR$/test/com/thoughtWorks/server/ResponseTest.java" />
-        <option value="$PROJECT_DIR$/src/com/thoughtWorks/server/Request.java" />
-        <option value="$PROJECT_DIR$/src/com/thoughtWorks/server/Response.java" />
-        <option value="$PROJECT_DIR$/src/spike/index.html" />
         <option value="$PROJECT_DIR$/src/com/thoughtWorks/server/Unicorn.java" />
-        <option value="$PROJECT_DIR$/src/spike/test.txt" />
-        <option value="$PROJECT_DIR$/test/com/thoughtworks/server/ResponseTest.java" />
-        <option value="$PROJECT_DIR$/test/com/thoughtworks/server/RequestTest.java" />
-        <option value="$PROJECT_DIR$/src/spike/Address.java" />
+        <option value="$PROJECT_DIR$/src/spike/Demoing.java" />
+        <option value="$PROJECT_DIR$/test/com/thoughtWorks/Server/serverTest.java" />
+        <option value="$PROJECT_DIR$/test/com/thoughtWorks/Server/ServerTest.java" />
+        <option value="$PROJECT_DIR$/src/com/thoughtWorks/Server/Client.java" />
+        <option value="$PROJECT_DIR$/src/spike/index.html" />
+        <option value="$PROJECT_DIR$/src/com/thoughtWorks/Server/Unicorn.java" />
+        <option value="$PROJECT_DIR$/src/com/thoughtWorks/Server/ReportGenerator.java" />
+        <option value="$PROJECT_DIR$/test/com/thoughtWorks/Server/ReportGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/test/com/thoughtWorks/Server/ResponseTest.java" />
+        <option value="$PROJECT_DIR$/src/com/thoughtWorks/Server/Request.java" />
+        <option value="$PROJECT_DIR$/src/com/thoughtWorks/Server/Response.java" />
+        <option value="$PROJECT_DIR$/src/com/thoughtWorks/Server/Server.java" />
+        <option value="$PROJECT_DIR$/src/com/thoughtWorks/static/index.html" />
+        <option value="$PROJECT_DIR$/src/com/static/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1" />
     <option name="y" value="27" />
-    <option name="width" value="1682" />
-    <option name="height" value="1024" />
+    <option name="width" value="1922" />
+    <option name="height" value="1174" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -225,7 +257,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -262,11 +294,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="thoughtworks" />
+              <option name="myItemId" value="thoughtWorks" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
+              <option name="myItemId" value="Server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -281,10 +313,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spike" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -310,17 +338,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unicorn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unicorn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_directory_selection" value="$PROJECT_DIR$/test/com" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/com" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -338,16 +388,18 @@
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.thoughtWorks.server" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.thoughtWorks.Server" />
+      <recent name="com.thoughtWorks.server" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.thoughtworks.server" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/thoughtWorks/static" />
       <recent name="$PROJECT_DIR$/src/spike" />
       <recent name="$PROJECT_DIR$/src/com/thoughtWorks/server" />
       <recent name="$PROJECT_DIR$/lib" />
@@ -357,39 +409,21 @@
       <recent name="spike" />
       <recent name="com.thoughtwork.webserver" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+      <recent name="com.thoughtWorks.server" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Unicorn">
-    <configuration default="false" name="ResponseTest.shouldReadFromFile" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="ReportGeneratorTest" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="unicorn" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.thoughtworks.server" />
-      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.server.ResponseTest" />
-      <option name="METHOD_NAME" value="shouldReadFromFile" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ResponseTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="unicorn" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.thoughtworks.server" />
-      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.server.ResponseTest" />
+      <option name="PACKAGE_NAME" value="com.thoughtWorks.Server" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtWorks.Server.ReportGeneratorTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -406,29 +440,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Unicorn" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.thoughtWorks.server.Unicorn" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="unicorn" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ResponseTest.shouldReturnAllTheContentOfTheFile" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="ReportGeneratorTest.shoudGiveStatusOfFileForTheGivenStatusCode" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="unicorn" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.thoughtworks.server" />
-      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.server.ResponseTest" />
-      <option name="METHOD_NAME" value="shouldReturnAllTheContentOfTheFile" />
+      <option name="PACKAGE_NAME" value="com.thoughtWorks.Server" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtWorks.Server.ReportGeneratorTest" />
+      <option name="METHOD_NAME" value="shoudGiveStatusOfFileForTheGivenStatusCode" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -444,14 +462,58 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="ResponseTest.shouldReturnListIfFileHasMultipleLines" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="ReportGeneratorTest.shouldGiveStatusAsBadRequestForTheGivenStatusCode" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="unicorn" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.thoughtworks.server" />
-      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.server.ResponseTest" />
-      <option name="METHOD_NAME" value="shouldReturnListIfFileHasMultipleLines" />
+      <option name="PACKAGE_NAME" value="com.thoughtWorks.Server" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtWorks.Server.ReportGeneratorTest" />
+      <option name="METHOD_NAME" value="shouldGiveStatusAsBadRequestForTheGivenStatusCode" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ReportGeneratorTest.shouldReturnContentTypeAsImageOrIconForTheGivenFileType" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="unicorn" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.thoughtWorks.Server" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtWorks.Server.ReportGeneratorTest" />
+      <option name="METHOD_NAME" value="shouldReturnContentTypeAsImageOrIconForTheGivenFileType" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RequestTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="unicorn" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.thoughtWorks.Server" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtWorks.Server.RequestTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -480,6 +542,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -505,19 +580,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -554,20 +616,37 @@
       <patterns />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ResponseTest.shouldReadFromFile" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ResponseTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Unicorn" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ResponseTest.shouldReturnAllTheContentOfTheFile" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ResponseTest.shouldReturnListIfFileHasMultipleLines" />
+    <configuration default="false" name="Unicorn" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.thoughtWorks.Server.Unicorn" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="unicorn" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.Unicorn" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ReportGeneratorTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ReportGeneratorTest.shoudGiveStatusOfFileForTheGivenStatusCode" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ReportGeneratorTest.shouldGiveStatusAsBadRequestForTheGivenStatusCode" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ReportGeneratorTest.shouldReturnContentTypeAsImageOrIconForTheGivenFileType" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.RequestTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Unicorn" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ResponseTest.shouldReturnListIfFileHasMultipleLines" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ResponseTest.shouldReturnAllTheContentOfTheFile" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ResponseTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ResponseTest.shouldReadFromFile" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.RequestTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ReportGeneratorTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ReportGeneratorTest.shouldReturnContentTypeAsImageOrIconForTheGivenFileType" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ReportGeneratorTest.shouldGiveStatusAsBadRequestForTheGivenStatusCode" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ReportGeneratorTest.shoudGiveStatusOfFileForTheGivenStatusCode" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -602,25 +681,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="27" width="1682" height="1024" extended-state="6" />
+    <frame x="-1" y="27" width="1922" height="1174" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32846004" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39954337" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32846004" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15544675" sideWeight="0.6769406" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32305935" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15528281" sideWeight="0.67153996" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32163742" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.249694" sideWeight="0.6746575" order="2" side_tool="false" content_ui="combo" />
@@ -687,88 +766,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/server/Request.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="3" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-openjdk-i386/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="975" column="0" selection-start="38511" selection-end="38511" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/hamcrest/core/IsEqual.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="27" selection-start="945" selection-end="945" vertical-scroll-proportion="-12.16" />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="28" selection-start="6315" selection-end="6315" vertical-scroll-proportion="-12.24" />
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-openjdk-i386/src.zip!/java/net/Socket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="901" column="24" selection-start="36274" selection-end="36274" vertical-scroll-proportion="0.33274338">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spike/Demoing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="12" selection-start="890" selection-end="890" vertical-scroll-proportion="0.31858408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spike/StartServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="21" selection-start="271" selection-end="271" vertical-scroll-proportion="0.23893805">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/server/Request.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="3" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spike/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="50" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spike/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="5" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/thoughtworks/server/ResponseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="52" selection-start="1578" selection-end="1578" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/server/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="46" selection-start="493" selection-end="509" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/spike/Address.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="28" selection-start="882" selection-end="882" vertical-scroll-proportion="0.42352942">
@@ -776,19 +773,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/thoughtworks/server/RequestTest.java">
+    <entry file="file://$PROJECT_DIR$/src/spike/Demoing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="45" selection-start="1189" selection-end="1189" vertical-scroll-proportion="0.0">
+        <state line="21" column="97" selection-start="741" selection-end="741" vertical-scroll-proportion="0.24705882">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/server/Unicorn.java">
+    <entry file="file://$PROJECT_DIR$/src/spike/a.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/thoughtWorks/Server/ServerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="21" selection-start="133" selection-end="133" vertical-scroll-proportion="0.15873016">
+        <state line="2" column="14" selection-start="48" selection-end="48" vertical-scroll-proportion="0.052910052">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/thoughtWorks/Server/ReportGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="26" selection-start="255" selection-end="255" vertical-scroll-proportion="-1.7402985">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/Server/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="2" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/thoughtWorks/Server/ResponseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="87" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/Server/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="17" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/Server/ReportGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="52" selection-start="2414" selection-end="2441" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/Server/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="5" selection-start="732" selection-end="732" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/thoughtWorks/Server/RequestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="176" selection-start="1283" selection-end="1283" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/Server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="34" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="59" selection-start="169" selection-end="169" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thoughtWorks/Server/Unicorn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="25" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spike/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="14" selection-start="137" selection-end="137" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="55" selection-start="43" selection-end="43" vertical-scroll-proportion="0.075">
+          <folding />
         </state>
       </provider>
     </entry>

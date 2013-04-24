@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class Server{
+public class Server extends Thread{
    ServerSocket serverSocket;
     private int port;
 
